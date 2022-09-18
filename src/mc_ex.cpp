@@ -38,6 +38,9 @@ int pibyarea(int iterations=10){
 }
 
 int pibyaverage(int iterations=10){
+  // Antithetic variates method
+  // Karl Sigman
+  // See http://www.columbia.edu/~ks20/
   double average;
 
   std::vector<double> values;

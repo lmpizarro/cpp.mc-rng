@@ -22,3 +22,13 @@ Search. Marsaglia's KISS c++
 ### c++ logging library
 
 [cpp log](https://github.com/gabime/spdlog)
+
+[cpp csv](https://github.com/d99kris/rapidcsv)
+
+### Statistics
+
+[statlibs](https://www.kthohr.com/statslib.html)
+
+[statlibs git](https://github.com/kthohr/stats)
+
+https://query1.finance.yahoo.com/v7/finance/download/META?period1=1624767125&period2=1656303125&interval=1d&events=history&includeAdjustedClose=true
